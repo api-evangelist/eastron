@@ -64,13 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Eastron Electronic Co., Ltd. designs and manufactures advanced electricity metering solutions, including electronic kWh meters, multi‑function energy meters, MID‑approved devices, and IoT‑enabled power analyzers. Based in Jiaxing, Zhejiang, China, the company serves utilities, industrial customers, and renewable energy projects worldwide, offering high‑quality products, ISO‑9001 certified processes, and comprehensive technical support.
+Eastron Electronic Co., Ltd. is a leading high‑tech manufacturer and supplier of electricity products and energy measurement solutions, headquartered in Jiaxing, China. The company develops a wide range of electricity meters, sensors, communication modules and management systems for applications such as smart metering, EV charging, solar PV, data centers and industrial energy management. With R&D teams in China and the UK, Eastron focuses on innovative technology, quality assurance, and global market outreach.
 
-**Areas:** Company · Energy · Metering · IoT · China
+**Areas:** Electricity Meters · Smart Meters · Energy Measurement · EV Charging · Solar PV · Data Center · Power Analyzer · Load Balancing
 
 ## Eastron Electronic Co., Ltd. on APIs.io
 
 Everything profiled for Eastron Electronic Co., Ltd. is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/eastron/](https://apis.io/providers/eastron/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Eastron API](https://apis.io/apis/eastron/eastron-api/) — Eastron provides electricity measurement and management solutions. API details are referenced at the company site.
 
 ### Published properties
 
@@ -91,11 +95,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 3.5** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 5.8** — minimal · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 50.0 |
+| Discoverability | 66.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
@@ -129,7 +133,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 0.0** — Energy & Utilities
+**Regulatory alignment 4.9** — Energy & Utilities
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/eastron/](https://apis.io/providers/eastron/).
 
